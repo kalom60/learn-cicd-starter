@@ -1,4 +1,4 @@
-![https://github.com/kalom60/learn-cicd-starter/actions/workflows/ci/badge.svg](IMAGE_URL)
+![GO CI](https://github.com/kalom60/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
